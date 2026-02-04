@@ -1,0 +1,107 @@
+div{
+    width: 150px;
+    display: inline-block;
+    border: 3px solid black;
+    margin: 20px;
+    box-shadow: 5px 5px rgb(72, 72, 72) ;
+}
+
+.tarjeta0{
+    background-color: rgb(195, 0, 255);
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta1{
+    background-color: rgb(52, 226, 43);
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta2{
+    background-color: rgb(43, 186, 226);
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta3{
+    background-color: rgb(255, 0, 179);
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta4{
+    background-color: rgba(226, 186, 43, 0.47);
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta5{
+    background-color: rgb(255, 115, 0);
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta6{
+    background-color: rgb(10, 10, 94);
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta7{
+    background-color: rgb(83, 45, 5);
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta8{
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta9{
+    background-color: rgb(0, 255, 208);
+    color: aliceblue;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta10{
+    background-color: rgb(174, 82, 148);
+    color: aliceblue;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+.tarjeta11{
+    background-color: rgb(151, 215, 228);
+    color: aliceblue;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+
+p{
+    text-align: center;
+}
